@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2023-05-01T21:19:27.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cisFbkbND5Bj2jcHwK2_" version="21.2.3" type="device">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1588" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="2780" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="8000 A.C." style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;1400 A.C.&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.5093750000000015;verticalAlign=top;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;3000 A.C.&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.4178571428571445;flipV=1;verticalAlign=top;strokeColor=#d79b00;spacingBottom=4;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;312 A.C.&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.42857142857142855;flipV=1;verticalAlign=top;strokeColor=#d79b00;spacingBottom=4;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Inicio de la ingeniería&lt;/h1&gt;&lt;p&gt;El desarrollo de la ingeniería , comenzó con la revolución agrícola, cuando los hombres dejaron de ser nómadas, y vivieron en un lugar fijo para poder cultivar sus productos y criar animales comestibles&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="93" y="430" width="215" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Ingeniería Egipcia&lt;/h1&gt;&lt;p&gt;En esta época, no se le conocía como ingeniería sino como arquitectura o tal vez tenían su propia definición de este oficio.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Los egipcios tenían a su disposición excelentes canteras de piedra y un buen sistema de transporte a través del Nilo, además de una gran fuerza de trabajo. Todo ello les permitió convertirse en el primer pueblo capaz de construir en piedra a gran escala, como fue el caso de los templos y las pirámides.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="319" y="10" width="215" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Ingeniería Griega&lt;/h1&gt;&lt;p&gt;La ciencia griega no fue muy propensa a la ingeniería; sin embargo, su mayor contribución fue descubrir que la naturaleza tiene leyes generales de comportamiento, las cuales se pueden describir con palabras. Además está la ventaja de la geometría euclidiana y su influjo en la técnica.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="545" y="430" width="215" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Ingeniería Romana&lt;/h1&gt;&lt;p&gt;En su mayor parte, la ingeniería romana era civil, especialmente en el diseño y construcción de obras permanentes tales como acueductos, carreteras, puentes y edificios públicos. El triunfo más conocido es la Vía Apia, la primera carretera importante recubierta de Europa.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Los ingenieros romanos realizaban sus obras utilizando como materia prima la piedra, la arcilla, la argamasa y la madera&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="773" y="30" width="215" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-2" value="700" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.5093750000000015;verticalAlign=top;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-3" value="&lt;h1&gt;Ingeniería Oriental&lt;/h1&gt;&lt;p&gt;Los chinos fueron los primeros constructores de puentes. Algunos de sus puentes más antiguos fueron de suspensión con cables hechos de fibra de bambú. Cambien desarrollaron maquinaria de engranaje desde fechas muy antiguas, fueron los primeros en inventar mecanismos de escape para relojes.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Una de las más grandes realizaciones de todos los tiempos fue la Gran Muralla de China. Este es uno de los ejemplos de determinación y paciencia orientales sin límite de tiempo, ademas en ese tiempo no se conocían las esclusas&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="988" y="430" width="215" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1568" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-5" value="&lt;span&gt;1665&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.5093750000000015;verticalAlign=top;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-6" value="&lt;h1&gt;Newton&lt;/h1&gt;&lt;p&gt;Descubrieron en forma independiente el cálculo diferencial . Newton descubrió el calculo integral, y luego describió la relación reciproca entre los cálculos diferencial e integral. Estos descubrimientos ocurrieron en Woolsthorpe, debido a que Cambirdge estaba cerrada como resultado de una epidemia.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1470.5" y="430" width="215" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-8" value="&lt;h1&gt;Triángulo de fuerzas&lt;/h1&gt;&lt;p&gt;Fue uno de los descubrimientos más importantes en la historia de la ingeniería mecánica lo que realizó Simón Stevin en Holanda, el cual permitió a los ingenieros manejar fuerzas resultantes que actuaban en los miembros estructurales. Stevin escribió un tratado sobre fracciones y también realizo trabajos que llevaron al desarrollo del sistema métrico.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="70" width="215" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-9" value="&lt;span&gt;1500&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.4178571428571445;flipV=1;verticalAlign=top;strokeColor=#d79b00;spacingBottom=4;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="430" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1807" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-11" value="&lt;h1&gt;Profesión&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Existen en Europa las primeras profesiones de ingeniero y arquitecto&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-12" value="&lt;span&gt;1770&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.4178571428571445;flipV=1;verticalAlign=top;strokeColor=#d79b00;spacingBottom=4;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1737" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-13" value="&lt;h1&gt;Ingeniería Europea&lt;/h1&gt;&lt;p&gt;Ocurrieron una serie de descubrimientos científicos importantes en la ingeniería y matemáticas. Un invento que contribuyó a la terminación de la forma de vida con castillos rodeados de murallas fue el cañón, que apareció en Alemania.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1229.5" y="485" width="215" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="2037.5" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-17" value="&lt;span&gt;1804&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.5093750000000015;verticalAlign=top;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1967.5" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5V8HvAmeR0ulxsWkBckC-18" target="5V8HvAmeR0ulxsWkBckC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-18" value="&lt;h1&gt;Ingeniería Industrial y máquina de vapor&lt;/h1&gt;&lt;p&gt;Surgen varias necesidades por el impacto de la revolución industrial creando escuelas de especialización en ingeniería.&lt;/p&gt;&lt;p&gt;Thomas Savery tuvo el gran merito de idear la maquina de vapor , En 1712, Thomas Newcomen la mejoro mucho, ya que también se usaba para bombear agua de una mina. Estas primeras máquinas eran muy deficientes, aunque representaban el desarrollo inicial de la energía apartir de las maquinas térmicas y en 1804, Richard Trevithick fue el primero en lograr que una locomotora de vapor corriera sobre rieles.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=3;fontSize=13;align=center;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="430" width="260" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="2477.5" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-20" value="&lt;span&gt;Actualidad&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.5093750000000015;verticalAlign=top;strokeColor=#1C0D00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="2407.5" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-21" value="&lt;h1&gt;Ingeniería en la actualidad&lt;/h1&gt;&lt;p&gt;La ingeniería juega un papel fundamental en el desarrollo económico de los países. Los ingenieros aplican la ciencia y la tecnología para mejorar la infraestructura que permite el aumento de la riqueza y del nivel de vida de la población. La sociedad disfruta de grandes conquistas de la ciencia y la tecnología.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;fontColor=default;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="430" width="215" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-23" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="2267" y="395" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-24" value="&lt;h1&gt;Automóviles y aeroplanos&lt;/h1&gt;&lt;p&gt;La producción masiva de automóviles ya había empezado en Francia y Estados Unidos. Las primeras compañías creadas para fabricar automóviles fueron las francesas Panhard et Levassor (1889), y Peugeot (1891). En 1908, Henry Ford comenzó a producir automóviles en una cadena de montaje, sistema totalmente innovador que le permitió alcanzar cifras de fabricación hasta entonces impensables.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=13;align=center;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="50" width="215" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5V8HvAmeR0ulxsWkBckC-25" value="&lt;span&gt;1770&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#ffcd28;fontSize=15;fontColor=default;size=0.4178571428571445;flipV=1;verticalAlign=top;strokeColor=#d79b00;spacingBottom=4;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="2197" y="425" width="160" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
